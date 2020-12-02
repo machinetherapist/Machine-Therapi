@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (InternalHackBase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Base.cpp
+  dllmain.cpp
+  Kod Üretiliyor...
+Mem.obj : warning LNK4099: PDB 'vc142.pdb', 'Mem.obj' ile veya 'C:\Users\h4xt0n\source\repos\InternalFramework\x64\Debug\vc142.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+CustomAPI.obj : warning LNK4099: PDB 'vc142.pdb', 'CustomAPI.obj' ile veya 'C:\Users\h4xt0n\source\repos\InternalFramework\x64\Debug\vc142.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+Console.obj : warning LNK4099: PDB 'vc142.pdb', 'Console.obj' ile veya 'C:\Users\h4xt0n\source\repos\InternalFramework\x64\Debug\vc142.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+AllocConsole.obj : warning LNK4099: PDB 'vc142.pdb', 'AllocConsole.obj' ile veya 'C:\Users\h4xt0n\source\repos\InternalFramework\x64\Debug\vc142.pdb' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  InternalFramework.vcxproj -> C:\Users\h4xt0n\source\repos\InternalFramework\x64\Debug\InternalFramework.dll

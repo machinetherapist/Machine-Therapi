@@ -1,0 +1,5 @@
+﻿  Base.cpp
+C:\Users\h4xt0n\source\repos\InternalFramework\InternalFramework\Hack\Base.h(7,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  dllmain.cpp
+C:\Users\h4xt0n\source\repos\InternalFramework\InternalFramework\Hack\Base.h(7,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+LINK : fatal error LNK1104: 'lib/minhook/libMinHook-x64-v141-mtd.lib' dosyası açılamıyor
