@@ -1,6 +1,5 @@
 # machinetherAPI
 ***Internal Hacking Framework***
-=======
 
 It will always be neat when starting a new project. And while continuing this project, things get complicated. At least that was the case for me.
 After realizing this, I thought why not write a framework. So I could start regularly and continue regularly. I learned the framework concept while dealing with **Javascript and Php**. I had coded php framework before.
