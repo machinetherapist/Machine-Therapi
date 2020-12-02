@@ -1,3 +1,6 @@
+#ifndef __FRAMEWORK_H__
+#define __FRAMEWORK_H__
+
 #include "Framework/Utility/Console.h"
 #include "Framework/Utility/Mem.h"
 #include "Framework/Utility/CustomAPI.h"
@@ -8,3 +11,5 @@
 #elif defined _M_IX86
 #pragma comment(lib, "Framework/Lib/minhook/libMinHook-x86-v141-mtd.lib")
 #endif
+
+#endif // __FRAMEWORK_H__
