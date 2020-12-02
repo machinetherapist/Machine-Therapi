@@ -1,4 +1,4 @@
-#include "pch.h"
+#include "Render.h"
 
 HWND hwndAC_Client;
 HDC hdcAC_client;
