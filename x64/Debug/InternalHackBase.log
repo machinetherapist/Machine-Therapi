@@ -1,8 +1,0 @@
-﻿  dllmain.cpp
-dllmain.obj : error LNK2019: Çözümlenmemiş dış sembol "public: void __cdecl Utility::Console::Allocate(void)" (?Allocate@Console@Utility@@QEAAXXZ), "void __cdecl Init(void)" (?Init@@YAXXZ) işlevinde başvurdu
-dllmain.obj : error LNK2019: Çözümlenmemiş dış sembol "public: void __cdecl Utility::Console::SetTitle(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?SetTitle@Console@Utility@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z), "void __cdecl Init(void)" (?Init@@YAXXZ) işlevinde başvurdu
-dllmain.obj : error LNK2019: Çözümlenmemiş dış sembol "class Utility::Console * __cdecl Utility::GetConsole(void)" (?GetConsole@Utility@@YAPEAVConsole@1@XZ), "void __cdecl Init(void)" (?Init@@YAXXZ) işlevinde başvurdu
-dllmain.obj : error LNK2019: Çözümlenmemiş dış sembol "public: static unsigned __int64 __cdecl Utility::CustomAPI::GetModuleA(char const *)" (?GetModuleA@CustomAPI@Utility@@SA_KPEBD@Z), "void __cdecl Init(void)" (?Init@@YAXXZ) işlevinde başvurdu
-dllmain.obj : error LNK2019: Çözümlenmemiş dış sembol "public: void __cdecl Hack::Base::AddPointer(unsigned __int64)" (?AddPointer@Base@Hack@@QEAAX_K@Z), "void __cdecl Init(void)" (?Init@@YAXXZ) işlevinde başvurdu
-dllmain.obj : error LNK2019: Çözümlenmemiş dış sembol "class Hack::Base * __cdecl Hack::GetBase(void)" (?GetBase@Hack@@YAPEAVBase@1@XZ), "void __cdecl Init(void)" (?Init@@YAXXZ) işlevinde başvurdu
-C:\Users\h4xt0n\source\repos\InternalHackBase\x64\Debug\InternalHackBase.dll : fatal error LNK1120: 6 çözümlenmemiş dışlar
