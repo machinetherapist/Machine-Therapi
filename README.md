@@ -1,4 +1,4 @@
-# Mt
+# MachineTherapi
 Internal Hacking Framework
 
 It will always be neat when starting a new project. And while continuing this project, things get complicated. At least that was the case for me.
