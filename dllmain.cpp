@@ -12,6 +12,6 @@ BOOL APIENTRY DllMain(HMODULE hModule,
     LPVOID lpReserved
 )
 {
-     CreateThread(0, 0, (LPTHREAD_START_ROUTINE)Hack::Constructor, 0, 0, 0);
+     if(ul_reason_for_call == DLL_PROCESS_ATTACH) CreateThread(0, 0, (LPTHREAD_START_ROUTINE)Hack::Constructor, 0, 0, 0);
      return TRUE;
 }
